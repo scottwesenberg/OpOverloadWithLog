@@ -1,0 +1,15 @@
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloadWithLog\OpOverloadWithLog\bin\Debug\net6.0\OpOverloadWithLog.exe
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloadWithLog\OpOverloadWithLog\bin\Debug\net6.0\OpOverloadWithLog.deps.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloadWithLog\OpOverloadWithLog\bin\Debug\net6.0\OpOverloadWithLog.runtimeconfig.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloadWithLog\OpOverloadWithLog\bin\Debug\net6.0\OpOverloadWithLog.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloadWithLog\OpOverloadWithLog\bin\Debug\net6.0\OpOverloadWithLog.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloadWithLog\OpOverloadWithLog\obj\Debug\net6.0\OpOverloadWithLog.csproj.AssemblyReference.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloadWithLog\OpOverloadWithLog\obj\Debug\net6.0\OpOverloadWithLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloadWithLog\OpOverloadWithLog\obj\Debug\net6.0\OpOverloadWithLog.AssemblyInfoInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloadWithLog\OpOverloadWithLog\obj\Debug\net6.0\OpOverloadWithLog.AssemblyInfo.cs
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloadWithLog\OpOverloadWithLog\obj\Debug\net6.0\OpOverloadWithLog.csproj.CoreCompileInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloadWithLog\OpOverloadWithLog\obj\Debug\net6.0\OpOverloadWithLog.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloadWithLog\OpOverloadWithLog\obj\Debug\net6.0\refint\OpOverloadWithLog.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloadWithLog\OpOverloadWithLog\obj\Debug\net6.0\OpOverloadWithLog.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloadWithLog\OpOverloadWithLog\obj\Debug\net6.0\OpOverloadWithLog.genruntimeconfig.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloadWithLog\OpOverloadWithLog\obj\Debug\net6.0\ref\OpOverloadWithLog.dll
